@@ -1,0 +1,176 @@
+[
+  {
+    "id": 6,
+    "path": "01_setup",
+    "revision": 1
+  },
+  {
+    "id": 7,
+    "path": "02_history",
+    "revision": 1
+  },
+  {
+    "id": 1,
+    "path": "03_commit",
+    "revision": 1
+  },
+  {
+    "id": 2,
+    "path": "04_partial",
+    "revision": 1
+  },
+  {
+    "id": 8,
+    "path": "05_unstage",
+    "revision": 1
+  },
+  {
+    "id": 9,
+    "path": "06_ignore",
+    "revision": 1
+  },
+  {
+    "id": 10,
+    "path": "07_restore",
+    "revision": 1
+  },
+  {
+    "id": 11,
+    "path": "08_soft",
+    "revision": 1
+  },
+  {
+    "id": 12,
+    "path": "09_mixed",
+    "revision": 1
+  },
+  {
+    "id": 13,
+    "path": "10_hard",
+    "revision": 1
+  },
+  {
+    "id": 14,
+    "path": "11_amend",
+    "revision": 1
+  },
+  {
+    "id": 15,
+    "path": "12_branch",
+    "revision": 1
+  },
+  {
+    "id": 16,
+    "path": "13_fast_forward",
+    "revision": 1
+  },
+  {
+    "id": 17,
+    "path": "14_merge",
+    "revision": 1
+  },
+  {
+    "id": 3,
+    "path": "15_merge",
+    "revision": 1
+  },
+  {
+    "id": 18,
+    "path": "16_hotfix",
+    "revision": 1
+  },
+  {
+    "id": 19,
+    "path": "17_revert",
+    "revision": 1
+  },
+  {
+    "id": 20,
+    "path": "18_clone",
+    "revision": 1
+  },
+  {
+    "id": 21,
+    "path": "19_fetch",
+    "revision": 1
+  },
+  {
+    "id": 22,
+    "path": "20_push_branch",
+    "revision": 1
+  },
+  {
+    "id": 5,
+    "path": "21_remote",
+    "revision": 1
+  },
+  {
+    "id": 23,
+    "path": "22_cherry_pick",
+    "revision": 1
+  },
+  {
+    "id": 24,
+    "path": "23_tag",
+    "revision": 1
+  },
+  {
+    "id": 25,
+    "path": "24_rebase",
+    "revision": 1
+  },
+  {
+    "id": 26,
+    "path": "25_rewrite",
+    "difficulty": "hard",
+    "points": 150,
+    "revision": 1
+  },
+  {
+    "id": 27,
+    "path": "26_wrong_branch",
+    "difficulty": "hard",
+    "points": 150,
+    "revision": 1
+  },
+  {
+    "id": 28,
+    "path": "27_detached",
+    "revision": 1
+  },
+  {
+    "id": 4,
+    "path": "28_recover",
+    "difficulty": "hard",
+    "points": 200,
+    "revision": 1
+  },
+  {
+    "id": 29,
+    "path": "29_reverted_merge",
+    "difficulty": "hard",
+    "points": 200,
+    "revision": 1
+  },
+  {
+    "id": 30,
+    "path": "30_bisect",
+    "difficulty": "hard",
+    "points": 200,
+    "revision": 1
+  },
+  {
+    "id": 31,
+    "path": "31_objects",
+    "difficulty": "hard",
+    "points": 200,
+    "revision": 1
+  },
+  {
+    "id": 32,
+    "path": "32_capstone",
+    "difficulty": "hard",
+    "points": 200,
+    "revision": 1
+  }
+]
